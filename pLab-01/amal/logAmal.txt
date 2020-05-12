@@ -1,0 +1,17 @@
+
+Using this symmetric key of length 32 bytes
+0000 - 8f 19 77 76 14 d6 e7 5f-ca fd e9 b4 f6 89 6d aa   ..wv..._......m.
+0010 - 29 1e 91 2d 33 dc c4 e3-0a 68 9d c6 78 22 d8 51   )..-3....h..x".Q
+
+Using this Initial Vector of length 16 bytes
+0000 - a1 76 51 30 06 da 99 fe-c7 21 30 26 6c 06 79 26   .vQ0.....!0&l.y&
+
+HexDump of Plaintext:
+0000 - 48 65 6c 6c 6f 20 57 6f-72 6c 64 21 20 4c 65 74   Hello World! Let
+0010 - 20 75 73 20 64 6f 20 73-6f 6d 65 20 65 6e 63 72    us do some encr
+0020 - 79 70 74 69 6f 6e                                 yption
+
+HexDump of Ciphertext:
+0000 - 00 6d 56 59 bf 80 93 a2-f2 7b ad 09 7e 38 ad 4c   .mVY.....{..~8.L
+0010 - d5 9b 58 95 69 a3 b0 03-ca 24 90 35 ed 4a ac d5   ..X.i....$.5.J..
+0020 - 5c 75 ea c4 77 fa 79 aa-6e f1 c2 3b a6 b0 85 05   \u..w.y.n..;....

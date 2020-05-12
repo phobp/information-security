@@ -1,0 +1,8 @@
+This is Amal. Will send encrypted data to FD 6
+
+Using this symmetric key of length 32 bytes
+0000 - 23 5c ad 05 be f6 ce 53-5f d6 60 50 0c e1 85 45   #\.....S_.`P...E
+0010 - 4b c7 49 f2 e0 9e dc f1-48 b1 12 79 37 d1 ea f5   K.I.....H..y7...
+
+Using this Initial Vector of length 16 bytes
+0000 - f1 a6 69 de 6f 23 0c 75-ba db aa 6b d8 62 65 d4   ..i.o#.u...k.be.

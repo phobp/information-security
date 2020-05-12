@@ -1,0 +1,8 @@
+This is Basim. Will receive encrypted data from FD 5 and session key/IV from FD 3
+
+Using this symmetric session key of length 32 bytes
+0000 - 78 4a 1d 65 04 16 29 50-e4 1d 51 9e 2c dc da 83   xJ.e..)P..Q.,...
+0010 - c9 d8 9b f9 52 c8 60 44-1c 60 e7 3a a9 ba 42 5d   ....R.`D.`.:..B]
+
+Using this Initial Vector of length 16 bytes
+0000 - 85 53 50 f4 03 47 d6 3d-48 f8 3e 9a 44 b5 3f 8a   .SP..G.=H.>.D.?.
